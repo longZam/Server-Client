@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <PackageReference Include="commandlineparser" Version="2.9.1" />
+    <PackageReference Include="log4net" Version="2.0.15" />
     <PackageReference Include="yamldotnet" Version="13.1.0" />
   </ItemGroup>
   
