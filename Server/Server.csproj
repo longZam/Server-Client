@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="commandlineparser" Version="2.9.1" />
+    <PackageReference Include="FixedMath.NET" Version="1.0.1" />
+    <PackageReference Include="log4net" Version="2.0.15" />
+    <PackageReference Include="yamldotnet" Version="13.1.0" />
+  </ItemGroup>
+
+</Project>
